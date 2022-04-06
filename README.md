@@ -6,7 +6,7 @@ I`m Junior DevOps (sometimes DevOops) engineer and here i would like to share my
 
 
 #### 🤹🏼‍♂️ Some facts:
-- 🔭 &nbsp; I’m currently learning k8s | terraf0rm | ELK stack | cybersec best practices.
+- 🔭 &nbsp; I’m currently learning k8s | terraf0rm | ELK stack | golang | cybersec best practices.
 - 👯 &nbsp; I can help u w/ automating some processes, deploying a project.
 
 
